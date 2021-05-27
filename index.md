@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##Learn html web programming and build websites
 
 You can use the [editor on GitHub](https://github.com/bob34-byte/www.learnhtmlcodeonline.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
